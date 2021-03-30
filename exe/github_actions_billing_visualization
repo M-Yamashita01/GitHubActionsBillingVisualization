@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'github_actions_billing_visualization'
+
+puts GithubActionsBillingVisualization.greet
