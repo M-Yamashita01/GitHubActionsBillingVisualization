@@ -2,4 +2,4 @@
 
 require 'github_actions_billing_visualization'
 
-puts GithubActionsBillingVisualization.greet
+puts GithubActionsBillingVisualization.run
