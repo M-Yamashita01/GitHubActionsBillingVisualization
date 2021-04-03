@@ -5,4 +5,5 @@ gemspec
 
 gem 'octokit', '~> 4.0'
 gem 'rake', '~> 12.0'
+gem 'rubocop', require: false
 gem 'rspec', '~> 3.0'
